@@ -1,1 +1,1 @@
-﻿2017-04-22T11:39:34+08:00 | [cataclysm-web-game] Clean up cataclysm-web-game unused code and dead imports
+﻿2017-10-10T16:44:29+08:00 | [cataclysm-web-game] Fix cataclysm-web-game race condition in async operations

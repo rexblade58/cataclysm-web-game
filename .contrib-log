@@ -1,1 +1,1 @@
-﻿2018-08-22T17:58:02+08:00 | [cataclysm-web-game] Add input validation for cataclysm-web-game API endpoints
+﻿2018-08-22T17:00:56+08:00 | [cataclysm-web-game] Fix cataclysm-web-game race condition in async operations

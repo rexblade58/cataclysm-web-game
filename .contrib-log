@@ -1,1 +1,1 @@
-﻿2019-06-06T11:51:53+08:00 | [cataclysm-web-game] Improve cataclysm-web-game error handling and logging
+﻿2019-10-27T10:15:48+08:00 | [cataclysm-web-game] Fix cataclysm-web-game race condition in async operations

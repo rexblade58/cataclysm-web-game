@@ -1,0 +1,1 @@
+﻿{"name":"cataclysm-web-game","version":"1.0.0","description":"Browser-based post-apocalyptic survival game","scripts":{"dev":"npx http-server public -p 8080","build":"node build.js"},"keywords":["game","survival","browser","canvas","post-apocalyptic"],"license":"MIT"}
